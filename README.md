@@ -60,6 +60,8 @@ AWS CloudFormation é um serviço de infraestrutura como código (*Infrastructur
 
 Durante o laboratório, foi acompanhada a integração do CloudFormation com o Step Functions. Essa relação é relevante porque a automação de processos também depende da definição e da organização da infraestrutura que sustenta a solução.
 
+Durante o laboratório, também foram apresentadas validações relacionadas às definições do workflow e da infraestrutura, além de um projeto modelo para demonstrar a organização dos recursos.
+
 > A atividade de CloudFormation foi acompanhada na aula. Este repositório não afirma que uma stack foi criada ou implantada pela autora.
 
 Mais detalhes: [CloudFormation e infraestrutura como código](./docs/cloudformation.md).
