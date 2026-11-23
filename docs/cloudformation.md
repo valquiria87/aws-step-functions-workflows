@@ -14,7 +14,7 @@ Em uma solução, os serviços podem atuar de forma complementar: a infraestrutu
 
 ## O que foi acompanhado no laboratório
 
-A integração entre AWS CloudFormation e AWS Step Functions foi acompanhada durante a aula. O objetivo desta seção é registrar a finalidade dos serviços e a relação entre eles.
+A integração entre AWS CloudFormation e AWS Step Functions foi acompanhada durante a aula. Também foram apresentadas validações relacionadas às definições do workflow e da infraestrutura, além de um projeto modelo. O objetivo desta seção é registrar a finalidade dos serviços e a relação entre eles.
 
 **Não foi realizada uma criação ou implantação independente de stack para este projeto.**
 
